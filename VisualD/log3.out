@@ -1,0 +1,880 @@
+Program 1
+{
+	Stack: [{string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf), ]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf), ]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@2a0d6acb}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [close(varf), ]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [close(varf), ]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@1221fed1}
+	Heap: {}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [string varf, {varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [varf = C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, {open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [open(varf), {int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int varc, {read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=0}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), {read(varc, varf), {print(varc), close(varf)}}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), {read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: []
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{read(varc, varf), {print(varc), close(varf)}}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [read(varc, varf), {print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=15}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{print(varc), close(varf)}]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(varc), close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [close(varf)]
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in=java.io.BufferedReader@63b6e628}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {varf=C:\Users\i9\OneDrive\Desktop\Facultate\Anul 2\Sem 3\Metode avansate de programare\ToyLanguageStuff\The D Language\test.in, varc=50}
+	Output: [15, 50]
+	File table: {}
+	Heap: {}
+};

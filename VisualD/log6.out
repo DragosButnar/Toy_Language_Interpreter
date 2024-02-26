@@ -1,0 +1,6152 @@
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [22]
+	File table: {}
+	Heap: {1=22}
+};
+Program 6
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 6
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 7
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 7
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 7
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 7
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=22}
+};
+Program 6
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 7
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 8
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 6
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 7
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 8
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 6
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 7
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 8
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 6
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 7
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 8
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {2=30}
+};
+Program 6
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {2=15}
+};
+Program 7
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {2=15}
+};
+Program 8
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(2, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {2=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a)), ]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 3
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 4
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 5
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 1
+{
+	Stack: [{int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 10, {new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(a,22), {fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(0, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 30), {v = 32, {print(v), print(rH(a))}}}), {fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [{fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [{wH(a, 30), {v = 32, {print(v), print(rH(a))}}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [fork({wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 2
+{
+	Stack: [wH(a, 30), {v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=22}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{v = 32, {print(v), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [{wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: []
+	File table: {}
+	Heap: {1=30}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [v = 32, {print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 3
+{
+	Stack: [wH(a, 15), {fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=30}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [{print(v), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [{fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(v), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [fork({print(rH(a)), wH(a, rH(a))}), print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: [print(rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [{print(rH(a)), wH(a, rH(a))}]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32]
+	File table: {}
+	Heap: {1=15}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=32}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [print(rH(a)), wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: [wH(a, rH(a))]
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), v=10}
+	Output: [30, 32, 15, 15, 15]
+	File table: {}
+	Heap: {1=15}
+};

@@ -1,0 +1,160 @@
+Program 3
+{
+	Stack: [{bool a, {int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [bool a, {int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [bool a, {int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}}]
+	Symbol Table: {a=false}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}}]
+	Symbol Table: {a=false}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}]
+	Symbol Table: {a=false}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [int v, {a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}]
+	Symbol Table: {a=false}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}]
+	Symbol Table: {a=false, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}}]
+	Symbol Table: {a=false, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}]
+	Symbol Table: {a=false, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [a = true, {[if(a) then (v = 2) else (v = 3)], print(v)}]
+	Symbol Table: {a=false, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{[if(a) then (v = 2) else (v = 3)], print(v)}]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [{[if(a) then (v = 2) else (v = 3)], print(v)}]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [[if(a) then (v = 2) else (v = 3)], print(v)]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [[if(a) then (v = 2) else (v = 3)], print(v)]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {a=true, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(v)]
+	Symbol Table: {a=true, v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: [print(v)]
+	Symbol Table: {a=true, v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {a=true, v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};

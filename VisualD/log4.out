@@ -1,0 +1,4464 @@
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 2
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5), ]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [Ref(int) v, {new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [new(v,20), {Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [Ref(Ref(int)) a, {new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [new(a,v), {print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(0, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [{print(rH(v)), print(rH(rH(a)) + 5)}]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(v)), print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: []
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: [print(rH(rH(a)) + 5)]
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(2, Ref(int)), v=RefValue(1, int)}
+	Output: [20, 25]
+	File table: {}
+	Heap: {1=20, 2=RefValue(1, int)}
+};

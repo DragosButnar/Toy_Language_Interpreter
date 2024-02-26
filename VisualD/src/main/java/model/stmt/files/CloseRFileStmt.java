@@ -1,0 +1,65 @@
+package model.stmt.files;
+
+import controller.MyException;
+import model.PrgState;
+import model.exp.Exp;
+import model.stmt.IStmt;
+import model.type.IType;
+import model.type.StringType;
+import model.value.derived.StringValue;
+import model.value.Value;
+import utils.dict.heap.IHeap;
+import utils.dict.MyIDictionary;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+
+public class CloseRFileStmt implements IStmt {
+    final Exp exp;
+
+    public CloseRFileStmt(Exp exp) {
+        this.exp = exp;
+    }
+
+    @Override
+    public IStmt deepCopy() {
+        return new CloseRFileStmt(exp.deepCopy());
+    }
+
+    @Override
+    public PrgState execute(PrgState state) throws MyException {
+        MyIDictionary<String, Value> dict = state.getSymTable();
+        IHeap<Value> heap = state.getHeap();
+        MyIDictionary<StringValue, BufferedReader> files = state.getFiles();
+        Value val = exp.eval(dict, heap);
+        if (!(val instanceof StringValue strVal))
+            throw new MyException("File type must be a string");
+
+        if (!files.isDefined(strVal)) {
+            throw new MyException("File is not open");
+        }
+        BufferedReader reader = files.lookup(strVal);
+        try {
+            reader.close();
+        } catch (IOException e) {
+            throw new MyException(e.toString());
+        }
+
+
+        files.remove(strVal);
+
+        return null;    }
+
+    @Override
+    public MyIDictionary<String, IType> typecheck(MyIDictionary<String, IType> typeEnv) throws MyException {
+        IType type = exp.typecheck(typeEnv);
+        if(type.equals(new StringType()))
+            return typeEnv;
+        else
+            throw new MyException("close() statement's argument must be StringType");    }
+
+    @Override
+    public String toString() {
+        return "close(" + exp.toString() + ")";
+    }
+}

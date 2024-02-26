@@ -1,0 +1,5455 @@
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v), ]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 2
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = 2, print(v)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [int v, {v = 2, print(v)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{v = 2, print(v)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [v = 2, print(v)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {v=2}
+	Output: []
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [2]
+	File table: {}
+	Heap: {}
+};
+Program 1
+{
+	Stack: [{int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: null
+	Lock table: null
+	Barrier table: null
+	Latch table: null
+	Count Semaphore table: null
+};
+Program 1
+{
+	Stack: [{int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[for(v = 0;v < 3;v = v + 1) fork({print(v), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})]}, print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 0, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=0}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{fork({print(v), v = v + 1}), v = v + 1}, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=1}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: []
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({print(v), v = v + 1}), v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = v + 1, [while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [{print(v), v = v + 1}]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[while(v < 3)do({fork({print(v), v = v + 1}), v = v + 1})], print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [print(v), v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v * 10)]
+	Symbol Table: {v=3}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: [v = v + 1]
+	Symbol Table: {v=2}
+	Output: [0, 1, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 4
+{
+	Stack: []
+	Symbol Table: {v=3}
+	Output: [0, 1, 2, 30]
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [[if(rH(a) < rH(b)) then (v = 100) else (v = 200)], {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [[if(rH(a) < rH(b)) then (v = 100) else (v = 200)], {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v = 100, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v = 100, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [{v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v=rH(b) - 2 > rH(a)?100:200, print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v=rH(b) - 2 > rH(a)?100:200, print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [[if(rH(b) - 2 > rH(a)) then (v = 100) else (v = 200)], print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [[if(rH(b) - 2 > rH(a)) then (v = 100) else (v = 200)], print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v = 200, print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [v = 200, print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=200}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: [print(v)]
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=200}
+	Output: [100]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 5
+{
+	Stack: []
+	Symbol Table: {a=RefValue(4, int), b=RefValue(5, int), v=200}
+	Output: [100, 200]
+	File table: {}
+	Heap: {4=1, 5=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [Ref(int) a, {Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [Ref(int) b, {int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int)}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [new(a,1), {new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(0, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [new(b,2), {v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(0, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v=rH(a) < rH(b)?100:200, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[if(rH(a) < rH(b)) then (v = 100) else (v = 200)], {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[if(rH(a) < rH(b)) then (v = 100) else (v = 200)], {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 100, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 100, {print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=0}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), {v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: []
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v=rH(b) - 2 > rH(a)?100:200, print(v)}]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v=rH(b) - 2 > rH(a)?100:200, print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v=rH(b) - 2 > rH(a)?100:200, print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[if(rH(b) - 2 > rH(a)) then (v = 100) else (v = 200)], print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [[if(rH(b) - 2 > rH(a)) then (v = 100) else (v = 200)], print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 200, print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 200, print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=100}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=200}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v)]
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=200}
+	Output: [100]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {a=RefValue(1, int), b=RefValue(2, int), v=200}
+	Output: [100, 200]
+	File table: {}
+	Heap: {1=1, 2=2}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};

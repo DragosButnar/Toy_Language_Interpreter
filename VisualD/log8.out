@@ -1,0 +1,1924 @@
+Program 8
+{
+	Stack: [{procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int v, {v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [int v, {v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [v = a + b, print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [v = a + b, print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [{print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: [fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 8
+{
+	Stack: []
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{call [product[v, w]], fork(call [sum[v, w]])}]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{call [product[v, w]], fork(call [sum[v, w]])}]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [call [product[v, w]], fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [call [product[v, w]], fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{int v, {v = a * b, print(v)}}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{int v, {v = a * b, print(v)}}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [int v, {v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [int v, {v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [{v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [v = a * b, print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [v = a * b, print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: [fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 9
+{
+	Stack: []
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [call [sum[v, w]]]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [call [sum[v, w]]]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [int v, {v = a + b, print(v)}, return]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [int v, {v = a + b, print(v)}, return]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [{v = a + b, print(v)}, return]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [{v = a + b, print(v)}, return]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [v = a + b, print(v), return]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [v = a + b, print(v), return]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [print(v), return]
+	Symbol Table: {a=2, b=5, v=7}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [print(v), return]
+	Symbol Table: {a=2, b=5, v=7}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [return]
+	Symbol Table: {a=2, b=5, v=7}
+	Output: [25, 2, 10, 7]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: [return]
+	Symbol Table: {a=2, b=5, v=7}
+	Output: [25, 2, 10, 7]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 10
+{
+	Stack: []
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10, 7]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [procedure[sum[a, b]->{int v, {v = a + b, print(v)}}], {procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [procedure[product[a, b]->{int v, {v = a * b, print(v)}}], {int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int w, {v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = 2, {w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=0, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [w = 5, {call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [call [sum[v * 10, w]], {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [int v, {v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{v = a + b, print(v)}, return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = a + b, print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [v = a + b, print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=0}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: []
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [return, {print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {a=20, b=5, v=25}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [{print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})}]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [print(v), fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: [fork({call [product[v, w]], fork(call [sum[v, w]])})]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 1
+{
+	Stack: []
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{call [product[v, w]], fork(call [sum[v, w]])}]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{call [product[v, w]], fork(call [sum[v, w]])}]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [call [product[v, w]], fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [call [product[v, w]], fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{int v, {v = a * b, print(v)}}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{int v, {v = a * b, print(v)}}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [int v, {v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [int v, {v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [{v = a * b, print(v)}, return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [v = a * b, print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [v = a * b, print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=0}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [print(v), return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [return, fork(call [sum[v, w]])]
+	Symbol Table: {a=2, b=5, v=10}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: [fork(call [sum[v, w]])]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 2
+{
+	Stack: []
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [call [sum[v, w]]]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [call [sum[v, w]]]
+	Symbol Table: {v=2, w=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
+Program 3
+{
+	Stack: [{int v, {v = a + b, print(v)}}, return]
+	Symbol Table: {a=2, b=5}
+	Output: [25, 2, 10]
+	File table: {}
+	Heap: {}
+	Procedures: {product=<[a, b], {int v, {v = a * b, print(v)}}>, sum=<[a, b], {int v, {v = a + b, print(v)}}>}
+	Lock table: {}
+	Barrier table: {}
+	Latch table: {}
+	Count Semaphore table: {}
+};
